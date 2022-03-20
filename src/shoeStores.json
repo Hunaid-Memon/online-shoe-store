@@ -1,0 +1,62 @@
+{
+    "sneakers": {
+        "title": "Sneakers",
+        "img": "https://cdn.pixabay.com/photo/2013/07/12/18/20/shoes-153310_960_720.png"
+    },
+    "dress": {
+        "title": "Dress Black ",
+        "img": "https://cdn.pixabay.com/photo/2020/02/28/10/44/shoes-4887100_960_720.jpg"
+    },
+    "teenager": {
+        "title": "Sneakers Teanager",
+        "img": "https://cdn.pixabay.com/photo/2014/11/14/19/57/sneakers-531172_960_720.jpg"
+     },
+    "loafer": {
+        "title": "Loafers Brown",
+        "img": "https://cdn.pixabay.com/photo/2021/03/08/12/46/loafers-6079036_960_720.jpg"
+    },
+    "hiking": {
+        "title": "Hiking Boots",
+        "img": "https://cdn.pixabay.com/photo/2021/03/13/03/35/leather-hiking-boots-6090992_960_720.jpg"
+    },
+    "walking": {
+        "title": "Walking Boots",
+        "img": "https://cdn.pixabay.com/photo/2018/12/03/12/31/hiking-shoes-3853326_960_720.jpg"
+    },
+    "hipster": {
+        "title": "Hipster Fashion",
+        "img": "https://cdn.pixabay.com/photo/2015/09/26/09/08/hipster-958805_960_720.jpg"
+    },
+    "running": {
+        "title": "Running Shoe",
+        "img": "https://cdn.pixabay.com/photo/2014/06/18/18/42/running-shoe-371625_960_720.jpg"
+    },
+    "walking_leather": {
+        "title": "Walking Leather",
+        "img": "https://cdn.pixabay.com/photo/2018/08/04/00/18/hiking-shoes-3583017_960_720.jpg"
+    },
+    "leather": {
+        "title": "Shoe Leather",
+        "img": "https://cdn.pixabay.com/photo/2015/01/16/15/01/fashion-601565_960_720.jpg"
+    },
+    "men": {
+        "title": "Drive Men",
+        "img": "https://cdn.pixabay.com/photo/2015/08/05/09/55/mens-shoes-875950_960_720.jpg"
+    },
+    "old": {
+        "title": "Leather Old Style",
+        "img": "https://cdn.pixabay.com/photo/2014/01/22/19/38/boot-250012_960_720.jpg"
+    },
+    "shoe": {
+        "title": "Sneakers",
+        "img": "https://cdn.pixabay.com/photo/2016/12/10/16/57/shoes-1897708_960_720.jpg"
+    },
+    "hiking_shoe": {
+        "title": "Hiking Shoes",
+        "img": "https://cdn.pixabay.com/photo/2014/12/31/11/41/shoes-584850_960_720.jpg"
+    },
+    "converse": {
+        "title": "Sneaker Shoes",
+        "img": "https://cdn.pixabay.com/photo/2016/06/03/17/35/shoes-1433925_960_720.jpg"
+    }
+}
